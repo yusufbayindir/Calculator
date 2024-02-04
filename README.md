@@ -18,3 +18,9 @@ To use the calculator, simply tap the number and operation keys on the display, 
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yusufbayindir/calculator.git
+
+## Contact
+
+Yusuf Bayındır - @yusufbayndrr
+
+Project Link: https://github.com/yusufbayindir/calculator
